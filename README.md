@@ -2,7 +2,7 @@
 
 Git learning
 18/02/2026
- Commands:
+ ##Commands:
  1.git clone
  2.git status
  3.add: add new or changed filesin working directory  (git add <filename>)
